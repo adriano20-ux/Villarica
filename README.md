@@ -13,11 +13,9 @@ El objetivo principal es facilitar el análisis de ingresos, cantidades vendidas
 
 ## Integrantes
 
-- Adrián Antonio Erazo García
-- Víctor Manuelle Garrido Reyes
-- Brayan Jhossep Martínez Zeta
-- Aaron Enrique Yarleque Ramos
-- Diego Aaron Zeña Paredes
+- Adriano Torres Villalobos
+- Angelo Aponte Zambrano
+- Brayan Diaz Principe
 
 ## Tecnologías utilizadas
 
